@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&display=swap');
+
+@font-face {
+  font-family: 'Futura';
+  src: url('~@/assets/fonts/Futura.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.v-btn {
+  font-size: 0.875rem;
+  font-weight: bold;
+  border: none;
+}
+
+// .content-overlay {
+//   position: absolute;
+//   top: 50%;
+//   left: 50%;
+//   transform: translate(-50%, -50%);
+//   z-index: 1;
+// }
